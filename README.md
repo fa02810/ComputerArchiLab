@@ -1,3 +1,3 @@
 # ComputerArchiLab
 
-All labs until Lab 06 have been uploaded.
+All labs till Lab 09 and the Lab Project have been uploaded. 
